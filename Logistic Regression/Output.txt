@@ -1,0 +1,15 @@
+Actual Error(using entire data for training and testing): 0.874636
+
+Error on #1th iteration of cross validation: 0.724638
+Error on #2th iteration of cross validation: 1.449275
+Error on #3th iteration of cross validation: 0.000000
+Error on #4th iteration of cross validation: 2.173913
+Error on #5th iteration of cross validation: 0.000000
+Error on #6th iteration of cross validation: 3.623188
+Error on #7th iteration of cross validation: 0.000000
+Error on #8th iteration of cross validation: 0.724638
+Error on #9th iteration of cross validation: 1.449275
+Error on #10th iteration of cross validation: 0.724638
+
+
+Average Error after cross validation: 1.086957

@@ -1,0 +1,10 @@
+Predicted Crime Rate for #1 row:	795.097
+Predicted Crime Rate for #2 row:	713.612
+Predicted Crime Rate for #3 row:	1659.24
+Predicted Crime Rate for #4 row:	611.721
+Predicted Crime Rate for #5 row:	723.216
+Predicted Crime Rate for #6 row:	1048.7
+Predicted Crime Rate for #7 row:	922.528
+Predicted Crime Rate for #8 row:	588.347
+Predicted Crime Rate for #9 row:	556.121
+Predicted Crime Rate for #10 row:	831.174
