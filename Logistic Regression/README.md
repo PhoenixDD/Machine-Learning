@@ -1,3 +1,4 @@
+# Description:
 Program that implements logistic regression with gradient descent algorithm.<br/><br/>
 We have data extracted from images that were taken from genuine and forged banknote-like specimens as training data for logistic regression.<br/>
 Data Set Characteristics:  	Multivariate	Number of Instances:	1372<br/>

@@ -1,3 +1,4 @@
+# Description:
 Program that implements multivariate linear regression to predict the crime rate.<br/>
 Description of training data (http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/mlr/frames/mlr06.html):<br/>
 Column 1(label): total overall reported crime rate per 1 million residents.<br/>
